@@ -1,1 +1,1 @@
-# DIO-trilha-java-b-sico
+# DIO-trilha-java-basico
